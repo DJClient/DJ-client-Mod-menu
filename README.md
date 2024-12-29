@@ -1,1 +1,1 @@
-# DJclientmenu
+# DJ-client-mod-menu
